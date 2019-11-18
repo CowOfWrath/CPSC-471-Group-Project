@@ -1,0 +1,11 @@
+Ch02_ApplicationLayer_CPSC471_F19_POST - Gauf
+
+https://support.google.com/a/answer/176600?hl=en
+
+https://docs.python.org/3/library/ssl.html
+
+https://developers.google.com/gmail/imap/xoauth2-protocol
+
+https://tools.ietf.org/html/rfc4954
+
+https://stackoverflow.com/questions/11046135/how-to-send-email-using-simple-smtp-commands-via-gmail
