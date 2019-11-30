@@ -28,7 +28,6 @@ while True :
         for i in range(0, len(outputdata)):
             connectionSocket.send(outputdata[i].encode())
         connectionSocket.send("\r\n".encode())
-        print("gonna close bitch")
         connectionSocket.close()
     except IOError:
         print("err")
@@ -36,7 +35,6 @@ while True :
         #Fill in start
         errorMessage = ('404 Not Found: ' + filename + "\r\n")
         connectionSocket.send(errorMessage.encode())
-        print("gonna close bitch")
         connectionSocket.close()
         #Fill in end
         #Close client socket
